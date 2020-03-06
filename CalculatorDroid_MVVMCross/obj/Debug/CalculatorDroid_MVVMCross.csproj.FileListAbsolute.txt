@@ -1,0 +1,23 @@
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\VisualStudio Demo\mvvm_xamarin_calc\MVVMCross-SimpleCalculator-Xamarin.Android-master\CalculatorDroid_MVVMCross\bin\Debug\CalculatorDroid_MVVMCross.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\VisualStudio Demo\mvvm_xamarin_calc\MVVMCross-SimpleCalculator-Xamarin.Android-master\CalculatorDroid_MVVMCross\bin\Debug\CalculatorDroid_MVVMCross.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\VisualStudio Demo\mvvm_xamarin_calc\MVVMCross-SimpleCalculator-Xamarin.Android-master\CalculatorDroid_MVVMCross\bin\Debug\MvvmCross.Core.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\VisualStudio Demo\mvvm_xamarin_calc\MVVMCross-SimpleCalculator-Xamarin.Android-master\CalculatorDroid_MVVMCross\bin\Debug\MvvmCross.Platform.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\VisualStudio Demo\mvvm_xamarin_calc\MVVMCross-SimpleCalculator-Xamarin.Android-master\CalculatorDroid_MVVMCross\obj\Debug\CalculatorDroid_MVVMCross.csproj.CopyComplete
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\VisualStudio Demo\mvvm_xamarin_calc\MVVMCross-SimpleCalculator-Xamarin.Android-master\CalculatorDroid_MVVMCross\obj\Debug\CalculatorDroid_MVVMCross.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\VisualStudio Demo\mvvm_xamarin_calc\MVVMCross-SimpleCalculator-Xamarin.Android-master\CalculatorDroid_MVVMCross\obj\Debug\CalculatorDroid_MVVMCross.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\VisualStudio Demo\mvvm_xamarin_calc\MVVMCross-SimpleCalculator-Xamarin.Android-master\CalculatorDroid_MVVMCross\obj\Debug\CalculatorDroid_MVVMCross.csprojAssemblyReference.cache
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\mvvm_xamarin_calc\MVVMCross-SimpleCalculator-Xamarin.Android-master\CalculatorDroid_MVVMCross\bin\Debug\CalculatorDroid_MVVMCross.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\mvvm_xamarin_calc\MVVMCross-SimpleCalculator-Xamarin.Android-master\CalculatorDroid_MVVMCross\bin\Debug\CalculatorDroid_MVVMCross.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\mvvm_xamarin_calc\MVVMCross-SimpleCalculator-Xamarin.Android-master\CalculatorDroid_MVVMCross\bin\Debug\MvvmCross.Core.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\mvvm_xamarin_calc\MVVMCross-SimpleCalculator-Xamarin.Android-master\CalculatorDroid_MVVMCross\bin\Debug\MvvmCross.Platform.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\mvvm_xamarin_calc\MVVMCross-SimpleCalculator-Xamarin.Android-master\CalculatorDroid_MVVMCross\obj\Debug\CalculatorDroid_MVVMCross.csproj.CopyComplete
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\mvvm_xamarin_calc\MVVMCross-SimpleCalculator-Xamarin.Android-master\CalculatorDroid_MVVMCross\obj\Debug\CalculatorDroid_MVVMCross.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\mvvm_xamarin_calc\MVVMCross-SimpleCalculator-Xamarin.Android-master\CalculatorDroid_MVVMCross\obj\Debug\CalculatorDroid_MVVMCross.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\mvvm_xamarin_calc\MVVMCross-SimpleCalculator-Xamarin.Android-master\CalculatorDroid_MVVMCross\obj\Debug\CalculatorDroid_MVVMCross.csprojAssemblyReference.cache
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\mvvm_xamarin_calc\Mvvm simple calculator- wip\CalculatorDroid_MVVMCross\bin\Debug\CalculatorDroid_MVVMCross.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\mvvm_xamarin_calc\Mvvm simple calculator- wip\CalculatorDroid_MVVMCross\bin\Debug\CalculatorDroid_MVVMCross.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\mvvm_xamarin_calc\Mvvm simple calculator- wip\CalculatorDroid_MVVMCross\bin\Debug\MvvmCross.Core.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\mvvm_xamarin_calc\Mvvm simple calculator- wip\CalculatorDroid_MVVMCross\bin\Debug\MvvmCross.Platform.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\mvvm_xamarin_calc\Mvvm simple calculator- wip\CalculatorDroid_MVVMCross\obj\Debug\CalculatorDroid_MVVMCross.csproj.CopyComplete
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\mvvm_xamarin_calc\Mvvm simple calculator- wip\CalculatorDroid_MVVMCross\obj\Debug\CalculatorDroid_MVVMCross.dll
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\mvvm_xamarin_calc\Mvvm simple calculator- wip\CalculatorDroid_MVVMCross\obj\Debug\CalculatorDroid_MVVMCross.pdb

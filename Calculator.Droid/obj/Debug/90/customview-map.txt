@@ -1,0 +1,11 @@
+attr;C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\mvvm_xamarin_calc\Mvvm simple calculator- wip\Calculator.Droid\obj\Debug\90\lp\0\jl\res\values\mvxbindingattributes.xml
+declare-styleable;C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\mvvm_xamarin_calc\Mvvm simple calculator- wip\Calculator.Droid\obj\Debug\90\lp\0\jl\res\values\mvxbindingattributes.xml
+EditText;obj\Debug\90\res\layout\calculatorlayout.xml
+item;C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\mvvm_xamarin_calc\Mvvm simple calculator- wip\Calculator.Droid\obj\Debug\90\lp\0\jl\res\values\ids.xml
+item;C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\mvvm_xamarin_calc\Mvvm simple calculator- wip\Calculator.Droid\obj\Debug\90\lp\0\jl\res\values\mvxbindingattributes.xml
+LinearLayout;obj\Debug\90\res\layout\calculatorlayout.xml
+resources;C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\mvvm_xamarin_calc\Mvvm simple calculator- wip\Calculator.Droid\obj\Debug\90\lp\0\jl\res\values\ids.xml
+resources;C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\mvvm_xamarin_calc\Mvvm simple calculator- wip\Calculator.Droid\obj\Debug\90\lp\0\jl\res\values\mvxbindingattributes.xml
+resources;obj\Debug\90\res\values\strings.xml
+string;obj\Debug\90\res\values\strings.xml
+TextView;obj\Debug\90\res\layout\calculatorlayout.xml

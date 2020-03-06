@@ -1,0 +1,29 @@
+int attr MvxBind 0x7f010000
+int attr MvxDropDownItemTemplate 0x7f010001
+int attr MvxGroupItemTemplate 0x7f010002
+int attr MvxItemTemplate 0x7f010003
+int attr MvxLang 0x7f010004
+int attr MvxSource 0x7f010005
+int attr MvxTemplate 0x7f010006
+int id MvvmCrossTagId 0x7f020000
+int id MvxBindingTagUnique 0x7f020001
+int id txtMean 0x7f020002
+int id txtMedian 0x7f020003
+int id txtMode 0x7f020004
+int id txtNum1 0x7f020005
+int layout calculatorlayout 0x7f030000
+int mipmap icon 0x7f040000
+int string app_name 0x7f050000
+int string hello 0x7f050001
+int[] styleable MvxBinding { 0x7f010000, 0x7f010004 }
+int styleable MvxBinding_MvxBind 0
+int styleable MvxBinding_MvxLang 1
+int[] styleable MvxControl { 0x7f010006 }
+int styleable MvxControl_MvxTemplate 0
+int[] styleable MvxExpandableListView { 0x7f010002 }
+int styleable MvxExpandableListView_MvxGroupItemTemplate 0
+int[] styleable MvxImageView { 0x7f010005 }
+int styleable MvxImageView_MvxSource 0
+int[] styleable MvxListView { 0x7f010001, 0x7f010003 }
+int styleable MvxListView_MvxDropDownItemTemplate 0
+int styleable MvxListView_MvxItemTemplate 1
