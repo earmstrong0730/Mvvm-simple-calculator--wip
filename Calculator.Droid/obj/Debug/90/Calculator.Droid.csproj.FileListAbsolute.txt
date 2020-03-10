@@ -595,7 +595,6 @@ C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\mvvm_xamarin_calc\Mvvm 
 C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\mvvm_xamarin_calc\Mvvm simple calculator- wip\Calculator.Droid\obj\Debug\90\android\src\md5e2d47b0f76577a28cbe1af6585b33969\MvxFilteringAdapter_MyFilter.java
 C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\mvvm_xamarin_calc\Mvvm simple calculator- wip\Calculator.Droid\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
 C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\mvvm_xamarin_calc\Mvvm simple calculator- wip\Calculator.Droid\obj\Debug\90\android\src\md57990a3fcacd8b64bebb3ce76ff3ee1ab\Calculator.java
-C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\mvvm_xamarin_calc\Mvvm simple calculator- wip\Calculator.Droid\obj\Debug\90\android\src\md57990a3fcacd8b64bebb3ce76ff3ee1ab\MainActivity.java
 C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\mvvm_xamarin_calc\Mvvm simple calculator- wip\Calculator.Droid\obj\Debug\90\android\src\md50a755da551f442ce94a926af156eedb8\MvxJavaContainer.java
 C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\mvvm_xamarin_calc\Mvvm simple calculator- wip\Calculator.Droid\obj\Debug\90\android\src\md50a755da551f442ce94a926af156eedb8\MvxJavaContainer_1.java
 C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\mvvm_xamarin_calc\Mvvm simple calculator- wip\Calculator.Droid\obj\Debug\90\android\src\md50a755da551f442ce94a926af156eedb8\MvxReplaceableJavaContainer.java

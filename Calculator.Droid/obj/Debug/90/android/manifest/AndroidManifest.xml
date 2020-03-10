@@ -2,7 +2,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.zayench.calculator_droid">
   <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="28" />
   <uses-permission android:name="android.permission.INTERNET" />
-  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <application android:allowBackup="true" android:icon="@mipmap/icon" android:label="@string/app_name" android:theme="@android:style/Theme.Holo.Light" android:name="android.app.Application" android:debuggable="true">
     <activity android:label="Calculator" android:name="md57990a3fcacd8b64bebb3ce76ff3ee1ab.Calculator">
       <intent-filter>

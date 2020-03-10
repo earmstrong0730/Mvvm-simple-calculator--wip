@@ -21,3 +21,4 @@ C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\mvvm_xamarin_calc\Mvvm 
 C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\mvvm_xamarin_calc\Mvvm simple calculator- wip\CalculatorDroid_MVVMCross\obj\Debug\CalculatorDroid_MVVMCross.csproj.CopyComplete
 C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\mvvm_xamarin_calc\Mvvm simple calculator- wip\CalculatorDroid_MVVMCross\obj\Debug\CalculatorDroid_MVVMCross.dll
 C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\mvvm_xamarin_calc\Mvvm simple calculator- wip\CalculatorDroid_MVVMCross\obj\Debug\CalculatorDroid_MVVMCross.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\mvvm_xamarin_calc\Mvvm simple calculator- wip\CalculatorDroid_MVVMCross\obj\Debug\CalculatorDroid_MVVMCross.csprojAssemblyReference.cache

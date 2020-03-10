@@ -3,7 +3,7 @@
   <PropertyGroup>
     <SelectedDevice>nexus_5x_oreo_8_0_api_26</SelectedDevice>
     <DefaultDevice>nexus_5x_oreo_8_0_api_26</DefaultDevice>
-    <AndroidDesignerPreferredTheme>Theme.DeviceDefault</AndroidDesignerPreferredTheme>
+    <AndroidDesignerPreferredTheme>Theme.Holo.Light</AndroidDesignerPreferredTheme>
     <AndroidDesignerPreferredDevice>Nexus 4</AndroidDesignerPreferredDevice>
   </PropertyGroup>
 </Project>
